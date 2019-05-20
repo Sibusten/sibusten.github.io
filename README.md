@@ -1,2 +1,4 @@
 # sibusten.github.io
-Site to host stuff I've made
+A website to host projects I've made
+
+https://sibusten.github.io
